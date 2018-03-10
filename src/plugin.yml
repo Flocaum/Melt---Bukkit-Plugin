@@ -1,0 +1,9 @@
+name: Melt
+version: 1.0
+main: me.flocaum.derreter.Main
+author: Flocaum
+website: www.flocaum.com.br
+commands:
+  melt:
+    permission: melt.use
+    usage: /<command>
